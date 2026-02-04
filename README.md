@@ -1,4 +1,4 @@
-# Learning Azure Networking Topology: Hub-Spoke
+# Learning Azure Networking Topology: Hub & Spoke
 
 A comprehensive learning resource for understanding and implementing Azure hub-spoke network topology patterns, created by Willem van Heemstra.
 
